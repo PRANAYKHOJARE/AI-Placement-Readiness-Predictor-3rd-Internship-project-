@@ -1,10 +1,8 @@
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/1.png)
 
 ### 📊 Prediction Output
-![Prediction](screenshots/prediction.png)
+![Prediction](screenshots/2.png)
 
-### 📄 Downloadable Report
-![Report](screenshots/report.png)
