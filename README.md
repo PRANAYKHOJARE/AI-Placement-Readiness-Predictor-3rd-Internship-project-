@@ -6,3 +6,6 @@
 ### 📊 Prediction Output
 ![Prediction](screenshots/2.png)
 
+### 📄 Actual Output Screenshot
+![Prediction](screenshots/3.png)
+
